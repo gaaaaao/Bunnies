@@ -10,5 +10,16 @@
 #define PCH_H
 
 // TODO: add headers that you want to pre-compile here
+#include <iostream>
+#include <algorithm>
+#include <vector>
+#include <string>
+#include <ctime>
+#include <fstream>
+
+#define random(x) (rand() % (int)x)
+
+extern std::ofstream file;
+extern int id;
 
 #endif //PCH_H
