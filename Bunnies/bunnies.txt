@@ -1,0 +1,1363 @@
+Bunny 0 was born!
+Bunny 1 was born!
+Bunny 2 was born!
+Bunny 3 was born!
+Bunny 4 was born!
+#################### INIT ENV ####################
+There are total 5 bunnies, 1 male bunnies, 4 female bunnies, 0 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	2
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	2
+NAME:	0
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	0
+NAME:	2
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	1
+NAME:	3
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	1
+NAME:	4
+VAMPIRE:	NV
+
+##################################################
+#################### Round 1 ####################
+Bunny 5 was born!
+There are total 6 bunnies, 1 male bunnies, 5 female bunnies, 0 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	2
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	2
+NAME:	0
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	0
+NAME:	2
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	1
+NAME:	3
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	1
+NAME:	4
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	0
+NAME:	5
+VAMPIRE:	NV
+
+########### This round takes 8.162737 ###########
+#################### Round 2 ####################
+Bunny 6 was born!
+Bunny 7 was born!
+Bunny 8 was born!
+There are total 9 bunnies, 4 male bunnies, 5 female bunnies, 0 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	3
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	0
+NAME:	6
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	0
+NAME:	7
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	WHITE
+AGE:	0
+NAME:	8
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	2
+NAME:	4
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	1
+NAME:	5
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	3
+NAME:	0
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	1
+NAME:	2
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	2
+NAME:	3
+VAMPIRE:	NV
+
+########### This round takes 2.000153 ###########
+#################### Round 3 ####################
+Bunny 9 was born!
+Bunny 10 was born!
+Bunny 11 was born!
+Bunny 12 was born!
+Radioactive Mutant Vampire Bunny 13 was born!
+There are total 14 bunnies, 6 male bunnies, 6 female bunnies, 2 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	4
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	1
+NAME:	6
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	1
+NAME:	7
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	WHITE
+AGE:	1
+NAME:	8
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	0
+NAME:	10
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	0
+NAME:	11
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	4
+NAME:	0
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	2
+NAME:	2
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	3
+NAME:	3
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	0
+NAME:	9
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	3
+NAME:	4
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	0
+NAME:	12
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	0
+NAME:	13
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	2
+NAME:	5
+VAMPIRE:	V
+
+########### This round takes 2.000121 ###########
+#################### Round 4 ####################
+Bunny 14 was born!
+Bunny 15 was born!
+Bunny 16 was born!
+Bunny 17 was born!
+There are total 18 bunnies, 8 male bunnies, 6 female bunnies, 4 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	5
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	2
+NAME:	6
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	0
+NAME:	16
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	WHITE
+AGE:	2
+NAME:	8
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	1
+NAME:	10
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	1
+NAME:	11
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	0
+NAME:	14
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	0
+NAME:	15
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	4
+NAME:	3
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	1
+NAME:	9
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	4
+NAME:	4
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	0
+NAME:	17
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	5
+NAME:	0
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	3
+NAME:	2
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	1
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	3
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	1
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	2
+NAME:	7
+VAMPIRE:	V
+
+########### This round takes 1.999651 ###########
+#################### Round 5 ####################
+Bunny 18 was born!
+Bunny 19 was born!
+Bunny 20 was born!
+Bunny 21 was born!
+Bunny 22 was born!
+There are total 23 bunnies, 10 male bunnies, 5 female bunnies, 8 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	6
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	3
+NAME:	6
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	1
+NAME:	16
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	WHITE
+AGE:	3
+NAME:	8
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	2
+NAME:	10
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	2
+NAME:	11
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	0
+NAME:	22
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	1
+NAME:	15
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	0
+NAME:	18
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	WHITE
+AGE:	0
+NAME:	20
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	0
+NAME:	21
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	1
+NAME:	17
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	5
+NAME:	4
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	2
+NAME:	9
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	0
+NAME:	19
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	4
+NAME:	2
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	1
+NAME:	14
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	6
+NAME:	0
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	2
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	4
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	2
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	3
+NAME:	7
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	5
+NAME:	3
+VAMPIRE:	V
+
+########### This round takes 2.000162 ###########
+#################### Round 6 ####################
+Bunny 23 was born!
+Bunny 24 was born!
+Radioactive Mutant Vampire Bunny 25 was born!
+There are total 26 bunnies, 5 male bunnies, 3 female bunnies, 18 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	7
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	4
+NAME:	6
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	WHITE
+AGE:	1
+NAME:	20
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	WHITE
+AGE:	4
+NAME:	8
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	1
+NAME:	18
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	0
+NAME:	23
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	2
+NAME:	17
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	6
+NAME:	4
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	2
+NAME:	16
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	1
+NAME:	21
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	3
+NAME:	10
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	2
+NAME:	15
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	1
+NAME:	19
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	1
+NAME:	22
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	0
+NAME:	24
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	3
+NAME:	11
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	0
+NAME:	25
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	7
+NAME:	0
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	3
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	5
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	3
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	4
+NAME:	7
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	6
+NAME:	3
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	5
+NAME:	2
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	2
+NAME:	14
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	3
+NAME:	9
+VAMPIRE:	V
+
+########### This round takes 1.999668 ###########
+#################### Round 7 ####################
+Bunny 26 was born!
+Bunny 27 was born!
+There are total 28 bunnies, 1 male bunnies, 0 female bunnies, 27 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	8
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	3
+NAME:	17
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	1
+NAME:	23
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	0
+NAME:	26
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	2
+NAME:	20
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	5
+NAME:	6
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	5
+NAME:	8
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	2
+NAME:	18
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	7
+NAME:	4
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	2
+NAME:	21
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	4
+NAME:	10
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	3
+NAME:	15
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	2
+NAME:	19
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	2
+NAME:	22
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	1
+NAME:	24
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	4
+NAME:	11
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	1
+NAME:	25
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	8
+NAME:	0
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	4
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	6
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	4
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	5
+NAME:	7
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	7
+NAME:	3
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	6
+NAME:	2
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	3
+NAME:	14
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	4
+NAME:	9
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	3
+NAME:	16
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	0
+NAME:	27
+VAMPIRE:	V
+
+########### This round takes 2.000026 ###########
+#################### Round 8 ####################
+There are total 28 bunnies, 1 male bunnies, 0 female bunnies, 27 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	9
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	4
+NAME:	17
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	2
+NAME:	23
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	1
+NAME:	26
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	3
+NAME:	20
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	6
+NAME:	6
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	6
+NAME:	8
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	3
+NAME:	18
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	8
+NAME:	4
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	3
+NAME:	21
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	5
+NAME:	10
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	4
+NAME:	15
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	3
+NAME:	19
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	3
+NAME:	22
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	2
+NAME:	24
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	5
+NAME:	11
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	2
+NAME:	25
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	9
+NAME:	0
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	5
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	7
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	5
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	6
+NAME:	7
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	8
+NAME:	3
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	7
+NAME:	2
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	4
+NAME:	14
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	5
+NAME:	9
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	4
+NAME:	16
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	1
+NAME:	27
+VAMPIRE:	V
+
+########### This round takes 2.000167 ###########
+#################### Round 9 ####################
+There are total 28 bunnies, 1 male bunnies, 0 female bunnies, 27 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	10
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	5
+NAME:	17
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	3
+NAME:	23
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	2
+NAME:	26
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	4
+NAME:	20
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	7
+NAME:	6
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	7
+NAME:	8
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	4
+NAME:	18
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	9
+NAME:	4
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	4
+NAME:	21
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	6
+NAME:	10
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	5
+NAME:	15
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	4
+NAME:	19
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	4
+NAME:	22
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	3
+NAME:	24
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	6
+NAME:	11
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	3
+NAME:	25
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	10
+NAME:	0
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	6
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	8
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	6
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	7
+NAME:	7
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	9
+NAME:	3
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	8
+NAME:	2
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	5
+NAME:	14
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	6
+NAME:	9
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	5
+NAME:	16
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	2
+NAME:	27
+VAMPIRE:	V
+
+########### This round takes 2.000056 ###########
+#################### Round 10 ####################
+Bunny 1 died!
+There are total 27 bunnies, 0 male bunnies, 0 female bunnies, 27 vampire bunnies.
+SEX:	F
+COLOR:	WHITE
+AGE:	3
+NAME:	27
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	6
+NAME:	17
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	4
+NAME:	23
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	3
+NAME:	26
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	5
+NAME:	20
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	8
+NAME:	6
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	8
+NAME:	8
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	5
+NAME:	18
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	10
+NAME:	4
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	5
+NAME:	21
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	7
+NAME:	10
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	6
+NAME:	15
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	5
+NAME:	19
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	5
+NAME:	22
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	4
+NAME:	24
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	7
+NAME:	11
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	4
+NAME:	25
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	11
+NAME:	0
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	7
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	9
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	7
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	8
+NAME:	7
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	10
+NAME:	3
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	9
+NAME:	2
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	6
+NAME:	14
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	7
+NAME:	9
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	6
+NAME:	16
+VAMPIRE:	V
+
+########### This round takes 2.000509 ###########
+###################### END ######################
+#### Total 11 rounds, elapsed time: 38.848169 ####
+Radioactive Mutant Vampire Bunny 27 died!
+Radioactive Mutant Vampire Bunny 17 died!
+Radioactive Mutant Vampire Bunny 23 died!
+Radioactive Mutant Vampire Bunny 26 died!
+Radioactive Mutant Vampire Bunny 20 died!
+Radioactive Mutant Vampire Bunny 6 died!
+Radioactive Mutant Vampire Bunny 8 died!
+Radioactive Mutant Vampire Bunny 18 died!
+Radioactive Mutant Vampire Bunny 4 died!
+Radioactive Mutant Vampire Bunny 21 died!
+Radioactive Mutant Vampire Bunny 10 died!
+Radioactive Mutant Vampire Bunny 15 died!
+Radioactive Mutant Vampire Bunny 19 died!
+Radioactive Mutant Vampire Bunny 22 died!
+Radioactive Mutant Vampire Bunny 24 died!
+Radioactive Mutant Vampire Bunny 11 died!
+Radioactive Mutant Vampire Bunny 25 died!
+Radioactive Mutant Vampire Bunny 0 died!
+Radioactive Mutant Vampire Bunny 12 died!
+Radioactive Mutant Vampire Bunny 5 died!
+Radioactive Mutant Vampire Bunny 13 died!
+Radioactive Mutant Vampire Bunny 7 died!
+Radioactive Mutant Vampire Bunny 3 died!
+Radioactive Mutant Vampire Bunny 2 died!
+Radioactive Mutant Vampire Bunny 14 died!
+Radioactive Mutant Vampire Bunny 9 died!
+Radioactive Mutant Vampire Bunny 16 died!
