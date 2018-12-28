@@ -25,19 +25,11 @@ int main()
 	// new random seed
 	srand(time(0));
 
-	// bunnies list
-	std::vector<Bunny *> bunnies;
-	int m_flag = -1;
-	int f_flag = -1;
 	// Init 5 bunnies
-	for (int i = 0; i < 5; ++i)
-	{
-		add_bunny(bunnies, new Bunny(random(3), static_cast<COLOR>(random(4))), m_flag, f_flag);
-	}
+	Bunnies bunnies(5);
 
 	print_label('#', std::string("INIT ENV"));
-	for (int i = 0; i < bunnies.size(); ++i)
-		file << bunnies[i]->p_bunny() << '\n';
+	bunnies.bunnies_info();
 	print_label('#', std::string(""));
 
 	int turn = 0;
@@ -46,45 +38,25 @@ int main()
 		std::cout << std::string("Round " + std::to_string(turn)) << std::endl;
 		print_label('#', std::string("Round " + std::to_string(turn)));
 		// If total bunnies are more than 1000, kill half of bunnies
-		if (bunnies.size() > 1000)
-			kill_bunny(bunnies, bunnies.size() / 2, m_flag, f_flag);
+		if (bunnies.count() > 1000)
+			bunnies.kill_bunnies(bunnies.count() / 2);
 
 		// If a bunny becomes older than 10 years old, it dies.
 		// Radioactive vampire bunnies do not die until they reach age 50.
-		kill_old_bunnies(bunnies, m_flag, f_flag);
+		bunnies.kill_old_bunnies();
 
 		// New bunnies
-		for (int i = 0; i <= m_flag; ++i)
-		{
-			if (bunnies[i]->age() >= 2)
-			{
-				int tmp = f_flag;
-				for (int j = m_flag + 1; j <= tmp; ++j) // till tmp f_flag, cause if the new born bunny is male and not vampire, it will swap with the first female bunny, and it will cause duplication.
-				{
-					if (bunnies[j]->age() >= 2 && !bunnies[j]->vampire())
-						add_bunny(bunnies, new Bunny(0, static_cast<COLOR>(bunnies[j]->color())), m_flag, f_flag);
-				}
-				break;
-			}
-		}
+		bunnies.reproduction();
 		// infect non-rad into rad
-		for (int i = f_flag + 1; i < bunnies.size() && f_flag > 0; ++i)
-			infection(bunnies, random(f_flag + 1), m_flag, f_flag);
-
+		bunnies.infection();
 		// age plus 1 and print bunnies
-		for (auto iter = bunnies.begin(); iter != bunnies.end(); ++iter)
-		{
-			file << (*iter)->p_bunny() << '\n';
-			(*iter)->grown();
-		}
+		bunnies.bunnies_info();
+		bunnies.grow();
 		file.flush();
 	}
 
 	print_label('#', "END");
-	//release everything
-	for (auto iter = bunnies.begin(); iter != bunnies.end(); ++iter)
-		delete *iter;
-
+	bunnies.kill_all_bunnies();
 	// close file handle
 	file.close();
 	return 0;
@@ -93,7 +65,7 @@ int main()
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
 
-// Tips for Getting Started: 
+// Tips for Getting Started:
 //   1. Use the Solution Explorer window to add/manage files
 //   2. Use the Team Explorer window to connect to source control
 //   3. Use the Output window to see build output and other messages
