@@ -4,119 +4,87 @@ Bunny 2 was born!
 Bunny 3 was born!
 Bunny 4 was born!
 #################### INIT ENV ####################
+There are total 5 bunnies, 1 male bunnies, 4 female bunnies, 0 vampire bunnies.
 SEX:	M
+COLOR:	BROWN
+AGE:	2
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	2
+NAME:	0
+VAMPIRE:	NV
+
+SEX:	F
 COLOR:	BLACK
 AGE:	0
 NAME:	2
 VAMPIRE:	NV
 
-SEX:	M
-COLOR:	SPOTTED
-AGE:	0
+SEX:	F
+COLOR:	BLACK
+AGE:	1
 NAME:	3
 VAMPIRE:	NV
 
 SEX:	F
 COLOR:	WHITE
-AGE:	1
-NAME:	0
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	1
-NAME:	1
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
 AGE:	1
 NAME:	4
 VAMPIRE:	NV
 
 ##################################################
 #################### Round 1 ####################
-SEX:	M
-COLOR:	BLACK
-AGE:	0
-NAME:	2
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	SPOTTED
-AGE:	0
-NAME:	3
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	1
-NAME:	0
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	1
-NAME:	1
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	1
-NAME:	4
-VAMPIRE:	NV
-
-#################### Round 2 ####################
-SEX:	M
-COLOR:	BLACK
-AGE:	1
-NAME:	2
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	SPOTTED
-AGE:	1
-NAME:	3
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	2
-NAME:	0
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	2
-NAME:	1
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	2
-NAME:	4
-VAMPIRE:	NV
-
-#################### Round 3 ####################
 Bunny 5 was born!
+There are total 6 bunnies, 1 male bunnies, 5 female bunnies, 0 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	2
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	2
+NAME:	0
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	0
+NAME:	2
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	1
+NAME:	3
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	1
+NAME:	4
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	0
+NAME:	5
+VAMPIRE:	NV
+
+########### This round takes 8.162737 ###########
+#################### Round 2 ####################
 Bunny 6 was born!
 Bunny 7 was born!
+Bunny 8 was born!
+There are total 9 bunnies, 4 male bunnies, 5 female bunnies, 0 vampire bunnies.
 SEX:	M
-COLOR:	BLACK
-AGE:	2
-NAME:	2
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	SPOTTED
-AGE:	2
-NAME:	3
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	5
+COLOR:	BROWN
+AGE:	3
+NAME:	1
 VAMPIRE:	NV
 
 SEX:	M
@@ -131,223 +99,181 @@ AGE:	0
 NAME:	7
 VAMPIRE:	NV
 
+SEX:	M
+COLOR:	WHITE
+AGE:	0
+NAME:	8
+VAMPIRE:	NV
+
 SEX:	F
 COLOR:	WHITE
-AGE:	3
-NAME:	0
+AGE:	2
+NAME:	4
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	1
+NAME:	5
 VAMPIRE:	NV
 
 SEX:	F
 COLOR:	BROWN
 AGE:	3
-NAME:	1
+NAME:	0
 VAMPIRE:	NV
 
 SEX:	F
 COLOR:	BLACK
-AGE:	3
-NAME:	4
+AGE:	1
+NAME:	2
 VAMPIRE:	NV
 
-#################### Round 4 ####################
-Bunny 8 was born!
+SEX:	F
+COLOR:	BLACK
+AGE:	2
+NAME:	3
+VAMPIRE:	NV
+
+########### This round takes 2.000153 ###########
+#################### Round 3 ####################
 Bunny 9 was born!
 Bunny 10 was born!
-SEX:	M
-COLOR:	BLACK
-AGE:	3
-NAME:	2
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	SPOTTED
-AGE:	3
-NAME:	3
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	1
-NAME:	5
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	1
-NAME:	6
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	1
-NAME:	7
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	4
-NAME:	0
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	4
-NAME:	1
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	4
-NAME:	4
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	0
-NAME:	8
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	0
-NAME:	9
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	10
-VAMPIRE:	NV
-
-#################### Round 5 ####################
 Bunny 11 was born!
 Bunny 12 was born!
-Bunny 13 was born!
+Radioactive Mutant Vampire Bunny 13 was born!
+There are total 14 bunnies, 6 male bunnies, 6 female bunnies, 2 vampire bunnies.
 SEX:	M
-COLOR:	BLACK
+COLOR:	BROWN
 AGE:	4
-NAME:	2
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	SPOTTED
-AGE:	4
-NAME:	3
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	2
-NAME:	5
+NAME:	1
 VAMPIRE:	NV
 
 SEX:	M
 COLOR:	BROWN
-AGE:	2
+AGE:	1
 NAME:	6
 VAMPIRE:	NV
 
 SEX:	M
 COLOR:	BLACK
-AGE:	2
+AGE:	1
 NAME:	7
 VAMPIRE:	NV
 
 SEX:	M
-COLOR:	BROWN
-AGE:	0
-NAME:	12
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	5
-NAME:	1
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	5
-NAME:	4
-VAMPIRE:	NV
-
-SEX:	F
 COLOR:	WHITE
 AGE:	1
 NAME:	8
 VAMPIRE:	NV
 
-SEX:	F
+SEX:	M
 COLOR:	BROWN
-AGE:	1
-NAME:	9
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	1
+AGE:	0
 NAME:	10
 VAMPIRE:	NV
 
-SEX:	F
-COLOR:	WHITE
+SEX:	M
+COLOR:	BROWN
 AGE:	0
 NAME:	11
 VAMPIRE:	NV
 
 SEX:	F
-COLOR:	WHITE
-AGE:	5
+COLOR:	BROWN
+AGE:	4
 NAME:	0
 VAMPIRE:	NV
 
 SEX:	F
 COLOR:	BLACK
-AGE:	0
-NAME:	13
+AGE:	2
+NAME:	2
 VAMPIRE:	NV
 
-#################### Round 6 ####################
+SEX:	F
+COLOR:	BLACK
+AGE:	3
+NAME:	3
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	0
+NAME:	9
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	3
+NAME:	4
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	0
+NAME:	12
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	0
+NAME:	13
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	2
+NAME:	5
+VAMPIRE:	V
+
+########### This round takes 2.000121 ###########
+#################### Round 4 ####################
 Bunny 14 was born!
 Bunny 15 was born!
 Bunny 16 was born!
 Bunny 17 was born!
-Bunny 18 was born!
-Bunny 19 was born!
+There are total 18 bunnies, 8 male bunnies, 6 female bunnies, 4 vampire bunnies.
 SEX:	M
-COLOR:	BLACK
+COLOR:	BROWN
 AGE:	5
-NAME:	2
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	SPOTTED
-AGE:	5
-NAME:	3
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	3
-NAME:	5
+NAME:	1
 VAMPIRE:	NV
 
 SEX:	M
 COLOR:	BROWN
-AGE:	3
+AGE:	2
 NAME:	6
 VAMPIRE:	NV
 
 SEX:	M
 COLOR:	BLACK
-AGE:	3
-NAME:	7
+AGE:	0
+NAME:	16
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	WHITE
+AGE:	2
+NAME:	8
 VAMPIRE:	NV
 
 SEX:	M
 COLOR:	BROWN
 AGE:	1
-NAME:	12
+NAME:	10
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	1
+NAME:	11
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	0
+NAME:	14
 VAMPIRE:	NV
 
 SEX:	M
@@ -356,1430 +282,1082 @@ AGE:	0
 NAME:	15
 VAMPIRE:	NV
 
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	16
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	19
+SEX:	F
+COLOR:	BLACK
+AGE:	4
+NAME:	3
 VAMPIRE:	NV
 
 SEX:	F
-COLOR:	BROWN
-AGE:	2
+COLOR:	WHITE
+AGE:	1
 NAME:	9
 VAMPIRE:	NV
 
 SEX:	F
-COLOR:	BLACK
-AGE:	2
-NAME:	10
-VAMPIRE:	NV
-
-SEX:	F
 COLOR:	WHITE
-AGE:	1
-NAME:	11
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	6
-NAME:	0
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	1
-NAME:	13
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	0
-NAME:	14
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	6
-NAME:	1
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	6
+AGE:	4
 NAME:	4
 VAMPIRE:	NV
 
 SEX:	F
-COLOR:	BROWN
+COLOR:	WHITE
 AGE:	0
 NAME:	17
 VAMPIRE:	NV
 
 SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	18
+COLOR:	BROWN
+AGE:	5
+NAME:	0
 VAMPIRE:	NV
 
 SEX:	F
-COLOR:	WHITE
-AGE:	2
-NAME:	8
+COLOR:	BLACK
+AGE:	3
+NAME:	2
 VAMPIRE:	NV
 
-#################### Round 7 ####################
+SEX:	F
+COLOR:	BLACK
+AGE:	1
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	3
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	1
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	2
+NAME:	7
+VAMPIRE:	V
+
+########### This round takes 1.999651 ###########
+#################### Round 5 ####################
+Bunny 18 was born!
+Bunny 19 was born!
 Bunny 20 was born!
 Bunny 21 was born!
 Bunny 22 was born!
+There are total 23 bunnies, 10 male bunnies, 5 female bunnies, 8 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	6
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	3
+NAME:	6
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	1
+NAME:	16
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	WHITE
+AGE:	3
+NAME:	8
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	2
+NAME:	10
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	2
+NAME:	11
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	0
+NAME:	22
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	1
+NAME:	15
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	0
+NAME:	18
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	WHITE
+AGE:	0
+NAME:	20
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BROWN
+AGE:	0
+NAME:	21
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	1
+NAME:	17
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	5
+NAME:	4
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	2
+NAME:	9
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	0
+NAME:	19
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	BLACK
+AGE:	4
+NAME:	2
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	1
+NAME:	14
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	6
+NAME:	0
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	2
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	4
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	2
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	3
+NAME:	7
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	5
+NAME:	3
+VAMPIRE:	V
+
+########### This round takes 2.000162 ###########
+#################### Round 6 ####################
 Bunny 23 was born!
 Bunny 24 was born!
-Bunny 25 was born!
+Radioactive Mutant Vampire Bunny 25 was born!
+There are total 26 bunnies, 5 male bunnies, 3 female bunnies, 18 vampire bunnies.
+SEX:	M
+COLOR:	BROWN
+AGE:	7
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BROWN
+AGE:	4
+NAME:	6
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	WHITE
+AGE:	1
+NAME:	20
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	WHITE
+AGE:	4
+NAME:	8
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	1
+NAME:	18
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	0
+NAME:	23
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	2
+NAME:	17
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	6
+NAME:	4
+VAMPIRE:	NV
+
+SEX:	M
+COLOR:	BLACK
+AGE:	2
+NAME:	16
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	1
+NAME:	21
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	3
+NAME:	10
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	2
+NAME:	15
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	1
+NAME:	19
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	1
+NAME:	22
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	0
+NAME:	24
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	3
+NAME:	11
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	0
+NAME:	25
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	7
+NAME:	0
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	3
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	5
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	3
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	4
+NAME:	7
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	6
+NAME:	3
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	5
+NAME:	2
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	2
+NAME:	14
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	3
+NAME:	9
+VAMPIRE:	V
+
+########### This round takes 1.999668 ###########
+#################### Round 7 ####################
 Bunny 26 was born!
 Bunny 27 was born!
-SEX:	M
-COLOR:	BLACK
-AGE:	6
-NAME:	2
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	SPOTTED
-AGE:	6
-NAME:	3
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	4
-NAME:	5
-VAMPIRE:	NV
-
+There are total 28 bunnies, 1 male bunnies, 0 female bunnies, 27 vampire bunnies.
 SEX:	M
 COLOR:	BROWN
-AGE:	4
-NAME:	6
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	4
-NAME:	7
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	2
-NAME:	12
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	1
-NAME:	15
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	1
-NAME:	16
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	1
-NAME:	19
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	22
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	23
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	0
-NAME:	24
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	7
-NAME:	0
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	2
-NAME:	13
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	1
-NAME:	14
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	7
+AGE:	8
 NAME:	1
 VAMPIRE:	NV
 
 SEX:	F
-COLOR:	BLACK
-AGE:	7
-NAME:	4
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	1
+COLOR:	WHITE
+AGE:	3
 NAME:	17
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	1
-NAME:	18
-VAMPIRE:	NV
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	WHITE
-AGE:	3
-NAME:	8
-VAMPIRE:	NV
+AGE:	1
+NAME:	23
+VAMPIRE:	V
 
 SEX:	F
-COLOR:	BROWN
+COLOR:	WHITE
 AGE:	0
+NAME:	26
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	2
 NAME:	20
-VAMPIRE:	NV
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	5
+NAME:	6
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	5
+NAME:	8
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	2
+NAME:	18
+VAMPIRE:	V
 
 SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	21
-VAMPIRE:	NV
+COLOR:	WHITE
+AGE:	7
+NAME:	4
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	BROWN
-AGE:	3
-NAME:	9
-VAMPIRE:	NV
+AGE:	2
+NAME:	21
+VAMPIRE:	V
 
-SEX:	F
+SEX:	M
+COLOR:	BROWN
+AGE:	4
+NAME:	10
+VAMPIRE:	V
+
+SEX:	M
 COLOR:	BLACK
 AGE:	3
-NAME:	10
-VAMPIRE:	NV
+NAME:	15
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	WHITE
 AGE:	2
+NAME:	19
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	2
+NAME:	22
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	1
+NAME:	24
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	4
 NAME:	11
-VAMPIRE:	NV
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	1
+NAME:	25
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	BROWN
-AGE:	0
-NAME:	25
-VAMPIRE:	NV
+AGE:	8
+NAME:	0
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	BLACK
-AGE:	0
-NAME:	26
-VAMPIRE:	NV
+AGE:	4
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	6
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	4
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	5
+NAME:	7
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	7
+NAME:	3
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	6
+NAME:	2
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	3
+NAME:	14
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	4
+NAME:	9
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	3
+NAME:	16
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	WHITE
 AGE:	0
 NAME:	27
-VAMPIRE:	NV
+VAMPIRE:	V
 
+########### This round takes 2.000026 ###########
 #################### Round 8 ####################
-Bunny 28 was born!
-Bunny 29 was born!
-Bunny 30 was born!
-Bunny 31 was born!
-Bunny 32 was born!
-Bunny 33 was born!
-Bunny 34 was born!
-Bunny 35 was born!
-Bunny 36 was born!
-Bunny 37 was born!
-Bunny 38 was born!
-SEX:	M
-COLOR:	BLACK
-AGE:	7
-NAME:	2
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	SPOTTED
-AGE:	7
-NAME:	3
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	5
-NAME:	5
-VAMPIRE:	NV
-
+There are total 28 bunnies, 1 male bunnies, 0 female bunnies, 27 vampire bunnies.
 SEX:	M
 COLOR:	BROWN
-AGE:	5
-NAME:	6
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	5
-NAME:	7
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	3
-NAME:	12
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	2
-NAME:	15
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	2
-NAME:	16
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	2
-NAME:	19
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	1
-NAME:	22
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	1
-NAME:	23
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	1
-NAME:	24
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	0
-NAME:	29
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	0
-NAME:	32
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	35
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	8
+AGE:	9
 NAME:	1
 VAMPIRE:	NV
 
 SEX:	F
-COLOR:	BLACK
-AGE:	8
-NAME:	4
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	2
+COLOR:	WHITE
+AGE:	4
 NAME:	17
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	2
-NAME:	18
-VAMPIRE:	NV
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	WHITE
-AGE:	4
-NAME:	8
-VAMPIRE:	NV
+AGE:	2
+NAME:	23
+VAMPIRE:	V
 
 SEX:	F
-COLOR:	BROWN
+COLOR:	WHITE
 AGE:	1
+NAME:	26
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	3
 NAME:	20
-VAMPIRE:	NV
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	6
+NAME:	6
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	6
+NAME:	8
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	3
+NAME:	18
+VAMPIRE:	V
 
 SEX:	F
-COLOR:	BLACK
-AGE:	1
-NAME:	21
-VAMPIRE:	NV
+COLOR:	WHITE
+AGE:	8
+NAME:	4
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	BROWN
-AGE:	4
-NAME:	9
-VAMPIRE:	NV
+AGE:	3
+NAME:	21
+VAMPIRE:	V
 
-SEX:	F
+SEX:	M
+COLOR:	BROWN
+AGE:	5
+NAME:	10
+VAMPIRE:	V
+
+SEX:	M
 COLOR:	BLACK
 AGE:	4
-NAME:	10
-VAMPIRE:	NV
+NAME:	15
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	WHITE
 AGE:	3
+NAME:	19
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	3
+NAME:	22
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	2
+NAME:	24
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	5
 NAME:	11
-VAMPIRE:	NV
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	2
+NAME:	25
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	BROWN
-AGE:	1
-NAME:	25
-VAMPIRE:	NV
+AGE:	9
+NAME:	0
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	BLACK
-AGE:	1
-NAME:	26
-VAMPIRE:	NV
+AGE:	5
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	7
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	5
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	6
+NAME:	7
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	8
+NAME:	3
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	7
+NAME:	2
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	4
+NAME:	14
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	5
+NAME:	9
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	4
+NAME:	16
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	WHITE
 AGE:	1
 NAME:	27
-VAMPIRE:	NV
+VAMPIRE:	V
 
-SEX:	F
-COLOR:	WHITE
-AGE:	0
-NAME:	28
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	8
-NAME:	0
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	0
-NAME:	30
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	0
-NAME:	31
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	3
-NAME:	13
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	0
-NAME:	33
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	34
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	2
-NAME:	14
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	0
-NAME:	36
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	37
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	0
-NAME:	38
-VAMPIRE:	NV
-
+########### This round takes 2.000167 ###########
 #################### Round 9 ####################
-Bunny 39 was born!
-Bunny 40 was born!
-Radioactive Mutant Vampire Bunny 41 was born!
-Bunny 42 was born!
-Bunny 43 was born!
-Bunny 44 was born!
-Bunny 45 was born!
-Bunny 46 was born!
-Bunny 47 was born!
-Bunny 48 was born!
-Bunny 49 was born!
-Bunny 50 was born!
-Bunny 51 was born!
-Bunny 52 was born!
-Bunny 53 was born!
-Bunny 54 was born!
+There are total 28 bunnies, 1 male bunnies, 0 female bunnies, 27 vampire bunnies.
 SEX:	M
+COLOR:	BROWN
+AGE:	10
+NAME:	1
+VAMPIRE:	NV
+
+SEX:	F
+COLOR:	WHITE
+AGE:	5
+NAME:	17
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	3
+NAME:	23
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	2
+NAME:	26
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	4
+NAME:	20
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	7
+NAME:	6
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	7
+NAME:	8
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	4
+NAME:	18
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	9
+NAME:	4
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	4
+NAME:	21
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	6
+NAME:	10
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	5
+NAME:	15
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	4
+NAME:	19
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	4
+NAME:	22
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	3
+NAME:	24
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	6
+NAME:	11
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	3
+NAME:	25
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	10
+NAME:	0
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	6
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	8
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	6
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	7
+NAME:	7
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	9
+NAME:	3
+VAMPIRE:	V
+
+SEX:	F
 COLOR:	BLACK
 AGE:	8
 NAME:	2
-VAMPIRE:	NV
+VAMPIRE:	V
 
 SEX:	M
-COLOR:	SPOTTED
-AGE:	8
-NAME:	3
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	6
-NAME:	5
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	6
-NAME:	6
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	6
-NAME:	7
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	4
-NAME:	12
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	3
-NAME:	15
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	3
-NAME:	16
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	3
-NAME:	19
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	2
-NAME:	22
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	2
-NAME:	23
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	2
-NAME:	24
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	0
-NAME:	54
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	1
-NAME:	32
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	1
-NAME:	35
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	0
-NAME:	39
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	0
-NAME:	42
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	43
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	48
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	0
-NAME:	50
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	51
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	2
-NAME:	21
-VAMPIRE:	NV
-
-SEX:	F
 COLOR:	BROWN
 AGE:	5
+NAME:	14
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	6
 NAME:	9
-VAMPIRE:	NV
+VAMPIRE:	V
 
-SEX:	F
+SEX:	M
 COLOR:	BLACK
 AGE:	5
-NAME:	10
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	4
-NAME:	11
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	2
-NAME:	25
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	2
-NAME:	26
-VAMPIRE:	NV
+NAME:	16
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	WHITE
 AGE:	2
 NAME:	27
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	1
-NAME:	28
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	9
-NAME:	0
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	1
-NAME:	30
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	1
-NAME:	31
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	4
-NAME:	13
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	1
-NAME:	33
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	1
-NAME:	34
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	3
-NAME:	14
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	1
-NAME:	36
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	1
-NAME:	37
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	1
-NAME:	38
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	9
-NAME:	1
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	40
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	9
-NAME:	4
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	3
-NAME:	17
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	0
-NAME:	44
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	45
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	0
-NAME:	46
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	47
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	3
-NAME:	18
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	0
-NAME:	49
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	5
-NAME:	8
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	2
-NAME:	20
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	0
-NAME:	52
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	53
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	0
-NAME:	41
 VAMPIRE:	V
 
-SEX:	M
-COLOR:	BLACK
-AGE:	1
-NAME:	29
-VAMPIRE:	V
-
+########### This round takes 2.000056 ###########
 #################### Round 10 ####################
-Bunny 55 was born!
-Bunny 56 was born!
-Bunny 57 was born!
-Bunny 58 was born!
-Bunny 59 was born!
-Bunny 60 was born!
-Bunny 61 was born!
-Bunny 62 was born!
-Bunny 63 was born!
-Bunny 64 was born!
-Bunny 65 was born!
-Bunny 66 was born!
-Bunny 67 was born!
-Bunny 68 was born!
-Bunny 69 was born!
-Bunny 70 was born!
-Bunny 71 was born!
-Bunny 72 was born!
-Bunny 73 was born!
-Bunny 74 was born!
-Bunny 75 was born!
-Bunny 76 was born!
-Bunny 77 was born!
-Bunny 78 was born!
-SEX:	M
-COLOR:	BLACK
-AGE:	9
-NAME:	2
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	SPOTTED
-AGE:	9
-NAME:	3
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	7
-NAME:	5
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	7
-NAME:	6
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	7
-NAME:	7
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	5
-NAME:	12
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	4
-NAME:	15
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	4
-NAME:	16
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	4
-NAME:	19
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	3
-NAME:	22
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	3
-NAME:	23
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	3
-NAME:	24
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	1
-NAME:	54
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	2
-NAME:	32
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	2
-NAME:	35
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	1
-NAME:	39
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	1
-NAME:	42
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	1
-NAME:	43
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	1
-NAME:	48
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	1
-NAME:	50
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	1
-NAME:	51
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	0
-NAME:	78
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	0
-NAME:	57
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	58
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	0
-NAME:	59
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	61
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	63
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	0
-NAME:	65
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	0
-NAME:	67
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	0
-NAME:	68
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	0
-NAME:	70
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	0
-NAME:	71
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	WHITE
-AGE:	0
-NAME:	72
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	0
-NAME:	73
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BROWN
-AGE:	0
-NAME:	75
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	4
-NAME:	14
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	2
-NAME:	36
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	2
-NAME:	37
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	2
-NAME:	38
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	10
-NAME:	1
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	1
-NAME:	40
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	10
-NAME:	4
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	4
-NAME:	17
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	1
-NAME:	44
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	1
-NAME:	45
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	1
-NAME:	46
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	1
-NAME:	47
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	4
-NAME:	18
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	1
-NAME:	49
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	6
-NAME:	8
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	3
-NAME:	20
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	1
-NAME:	52
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	1
-NAME:	53
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	3
-NAME:	21
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	0
-NAME:	56
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	6
-NAME:	9
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	6
-NAME:	10
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	5
-NAME:	11
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	60
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	3
-NAME:	25
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	WHITE
-AGE:	0
-NAME:	62
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	3
-NAME:	26
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	0
-NAME:	64
-VAMPIRE:	NV
-
+Bunny 1 died!
+There are total 27 bunnies, 0 male bunnies, 0 female bunnies, 27 vampire bunnies.
 SEX:	F
 COLOR:	WHITE
 AGE:	3
 NAME:	27
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	66
-VAMPIRE:	NV
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	WHITE
-AGE:	0
-NAME:	77
-VAMPIRE:	NV
+AGE:	6
+NAME:	17
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	4
+NAME:	23
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	3
+NAME:	26
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	5
+NAME:	20
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	8
+NAME:	6
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	8
+NAME:	8
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	5
+NAME:	18
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	WHITE
 AGE:	10
-NAME:	0
-VAMPIRE:	NV
+NAME:	4
+VAMPIRE:	V
 
 SEX:	F
 COLOR:	BROWN
-AGE:	0
-NAME:	69
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	2
-NAME:	30
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	2
-NAME:	31
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
 AGE:	5
-NAME:	13
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BROWN
-AGE:	2
-NAME:	33
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	74
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	2
-NAME:	34
-VAMPIRE:	NV
-
-SEX:	F
-COLOR:	BLACK
-AGE:	0
-NAME:	76
-VAMPIRE:	NV
-
-SEX:	M
-COLOR:	BLACK
-AGE:	0
-NAME:	55
-VAMPIRE:	V
-
-SEX:	M
-COLOR:	BLACK
-AGE:	2
-NAME:	29
+NAME:	21
 VAMPIRE:	V
 
 SEX:	M
 COLOR:	BROWN
-AGE:	1
-NAME:	41
+AGE:	7
+NAME:	10
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	6
+NAME:	15
 VAMPIRE:	V
 
 SEX:	F
 COLOR:	WHITE
-AGE:	2
-NAME:	28
+AGE:	5
+NAME:	19
 VAMPIRE:	V
 
+SEX:	M
+COLOR:	BLACK
+AGE:	5
+NAME:	22
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	4
+NAME:	24
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	7
+NAME:	11
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	WHITE
+AGE:	4
+NAME:	25
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	11
+NAME:	0
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	7
+NAME:	12
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BROWN
+AGE:	9
+NAME:	5
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	7
+NAME:	13
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	8
+NAME:	7
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	10
+NAME:	3
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	BLACK
+AGE:	9
+NAME:	2
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BROWN
+AGE:	6
+NAME:	14
+VAMPIRE:	V
+
+SEX:	F
+COLOR:	WHITE
+AGE:	7
+NAME:	9
+VAMPIRE:	V
+
+SEX:	M
+COLOR:	BLACK
+AGE:	6
+NAME:	16
+VAMPIRE:	V
+
+########### This round takes 2.000509 ###########
 ###################### END ######################
-Bunny 2 died!
-Bunny 3 died!
-Bunny 5 died!
-Bunny 6 died!
-Bunny 7 died!
-Bunny 12 died!
-Bunny 15 died!
-Bunny 16 died!
-Bunny 19 died!
-Bunny 22 died!
-Bunny 23 died!
-Bunny 24 died!
-Bunny 54 died!
-Bunny 32 died!
-Bunny 35 died!
-Bunny 39 died!
-Bunny 42 died!
-Bunny 43 died!
-Bunny 48 died!
-Bunny 50 died!
-Bunny 51 died!
-Bunny 78 died!
-Bunny 57 died!
-Bunny 58 died!
-Bunny 59 died!
-Bunny 61 died!
-Bunny 63 died!
-Bunny 65 died!
-Bunny 67 died!
-Bunny 68 died!
-Bunny 70 died!
-Bunny 71 died!
-Bunny 72 died!
-Bunny 73 died!
-Bunny 75 died!
-Bunny 14 died!
-Bunny 36 died!
-Bunny 37 died!
-Bunny 38 died!
-Bunny 1 died!
-Bunny 40 died!
-Bunny 4 died!
-Bunny 17 died!
-Bunny 44 died!
-Bunny 45 died!
-Bunny 46 died!
-Bunny 47 died!
-Bunny 18 died!
-Bunny 49 died!
-Bunny 8 died!
-Bunny 20 died!
-Bunny 52 died!
-Bunny 53 died!
-Bunny 21 died!
-Bunny 56 died!
-Bunny 9 died!
-Bunny 10 died!
-Bunny 11 died!
-Bunny 60 died!
-Bunny 25 died!
-Bunny 62 died!
-Bunny 26 died!
-Bunny 64 died!
-Bunny 27 died!
-Bunny 66 died!
-Bunny 77 died!
-Bunny 0 died!
-Bunny 69 died!
-Bunny 30 died!
-Bunny 31 died!
-Bunny 13 died!
-Bunny 33 died!
-Bunny 74 died!
-Bunny 34 died!
-Bunny 76 died!
-Radioactive Mutant Vampire Bunny 55 died!
-Radioactive Mutant Vampire Bunny 29 died!
-Radioactive Mutant Vampire Bunny 41 died!
-Radioactive Mutant Vampire Bunny 28 died!
+#### Total 11 rounds, elapsed time: 38.848169 ####
+Radioactive Mutant Vampire Bunny 27 died!
+Radioactive Mutant Vampire Bunny 17 died!
+Radioactive Mutant Vampire Bunny 23 died!
+Radioactive Mutant Vampire Bunny 26 died!
+Radioactive Mutant Vampire Bunny 20 died!
+Radioactive Mutant Vampire Bunny 6 died!
+Radioactive Mutant Vampire Bunny 8 died!
+Radioactive Mutant Vampire Bunny 18 died!
+Radioactive Mutant Vampire Bunny 4 died!
+Radioactive Mutant Vampire Bunny 21 died!
+Radioactive Mutant Vampire Bunny 10 died!
+Radioactive Mutant Vampire Bunny 15 died!
+Radioactive Mutant Vampire Bunny 19 died!
+Radioactive Mutant Vampire Bunny 22 died!
+Radioactive Mutant Vampire Bunny 24 died!
+Radioactive Mutant Vampire Bunny 11 died!
+Radioactive Mutant Vampire Bunny 25 died!
+Radioactive Mutant Vampire Bunny 0 died!
+Radioactive Mutant Vampire Bunny 12 died!
+Radioactive Mutant Vampire Bunny 5 died!
+Radioactive Mutant Vampire Bunny 13 died!
+Radioactive Mutant Vampire Bunny 7 died!
+Radioactive Mutant Vampire Bunny 3 died!
+Radioactive Mutant Vampire Bunny 2 died!
+Radioactive Mutant Vampire Bunny 14 died!
+Radioactive Mutant Vampire Bunny 9 died!
+Radioactive Mutant Vampire Bunny 16 died!

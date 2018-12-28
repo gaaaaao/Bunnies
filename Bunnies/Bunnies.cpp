@@ -6,7 +6,7 @@ Bunnies::Bunnies(int num) : id(0), m_flag(-1), f_flag(-1)
 {
 	for (int i = 0; i < num; ++i)
 	{
-		Bunnies::add_bunny(bunnies, new Bunny(random(3), static_cast<COLOR>(random(4))), m_flag, f_flag);
+		Bunnies::add_bunny(new Bunny(random(3), static_cast<COLOR>(random(4)), std::to_string(id++)));
 	}
 }
 Bunnies::Bunnies(std::vector<Bunny *> &bunnies) : id(0), m_flag(-1), f_flag(-1) {} // TODO
@@ -82,7 +82,7 @@ void Bunnies::kill_old_bunnies()
 	for (int i = 0; i < bunnies.size(); ++i)
 	{
 		if ((!bunnies[i]->vampire() && bunnies[i]->age() > 10) || (bunnies[i]->vampire() && bunnies[i]->age() > 50))
-			Bunnies::kill_bunny(bunnies, i--, m_flag, f_flag);
+			Bunnies::kill_bunny(i--);
 	}
 }
 
@@ -90,6 +90,7 @@ void Bunnies::kill_all_bunnies()
 {
 	for (auto iter = bunnies.begin(); iter != bunnies.end(); ++iter)
 		delete *iter;
+	bunnies.clear();
 }
 
 void Bunnies::bunnies_info()
@@ -119,7 +120,7 @@ void Bunnies::reproduction()
 			for (int j = m_flag + 1; j <= tmp; ++j) // till tmp f_flag, cause if the new born bunny is male and not vampire, it will swap with the first female bunny, and it will cause duplication.
 			{
 				if (bunnies[j]->age() >= 2 && !bunnies[j]->vampire())
-					add_bunny(new Bunny(0, static_cast<COLOR>(bunnies[j]->color())));
+					add_bunny(new Bunny(0, static_cast<COLOR>(bunnies[j]->color()), std::to_string(id++)));
 			}
 			break;
 		}

@@ -1,7 +1,7 @@
 #include "pch.h"
 #include "Bunny.h"
 
-Bunny::Bunny(int a, COLOR c): m_sex(random(2)), m_color(c), m_age(a), m_name(std::to_string(id++)), m_vampire(!random(50))
+Bunny::Bunny(int a, COLOR c, std::string name): m_sex(random(2)), m_color(c), m_age(a), m_name(name), m_vampire(!random(50))
 {
 	if (m_vampire)
 		file << "Radioactive Mutant Vampire Bunny " << m_name << " was born!" << '\n';

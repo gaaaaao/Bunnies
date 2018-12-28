@@ -20,6 +20,5 @@
 #define random(x) (rand() % (int)x)
 
 extern std::ofstream file;
-extern int id;
 
 #endif //PCH_H

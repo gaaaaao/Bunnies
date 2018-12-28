@@ -18,7 +18,7 @@ private:
 	std::string m_name;
 	bool m_vampire;
 public:
-	Bunny(int a, COLOR c);
+	Bunny(int a, COLOR c, std::string name);
 	bool sex();
 	int color();
 	int age();
