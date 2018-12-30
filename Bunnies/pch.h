@@ -16,6 +16,9 @@
 #include <string>
 #include <ctime>
 #include <fstream>
+#include <conio.h>
+#include <thread>
+#include <atomic>
 
 #define random(x) (rand() % (int)x)
 

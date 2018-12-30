@@ -8,6 +8,8 @@
 
 std::ofstream file;
 
+std::atomic<bool> rabit_cull;
+std::atomic<bool> quit;
 void print_label(char label, const std::string msg)
 {
 	if (msg.length() == 0)
@@ -19,12 +21,34 @@ void print_label(char label, const std::string msg)
 	file << std::string(n, label) << ' ' << msg << ' ' << std::string(n, label) << '\n';
 }
 
+void keyboard_monitor()
+{
+	char k;
+	while (!quit) 
+	{
+		if (_kbhit())
+			k = _getch();
+		else
+			continue;
+		if (!rabit_cull && (tolower(k)))
+			rabit_cull = true;
+	}
+	std::cout << "quitting subthread" << std::endl;
+}
+
 int main()
 {
 	// file handler
 	file.open("bunnies.txt", std::ofstream::out | std::ofstream::trunc);
 	// new random seed
 	srand(time(0));
+
+	// Init environment
+	quit = false;
+	rabit_cull = false;
+
+	// Keyboard Monitor
+	 std::thread t_keyboard(keyboard_monitor);
 
 	// Global starting time
 	auto global_start = Time::now();
@@ -37,7 +61,7 @@ int main()
 
 	// local start, end
 	std::chrono::time_point<std::chrono::system_clock> start, end;
-	dsec dur, remain;
+	char ch;
 	int turn = 0;
 	while (!bunnies.empty() && turn++ < 10)
 	{
@@ -54,31 +78,43 @@ int main()
 		// Radioactive vampire bunnies do not die until they reach age 50.
 		bunnies.kill_old_bunnies();
 
-		dur = Time::now() - start;
-		remain = dsec(0.5) - dur;
-		sleep(std::max(std::chrono::duration_cast<Ms>(remain).count(), 0ll));
+		if (rabit_cull)
+		{
+			bunnies.kill_bunnies(bunnies.count() / 2);
+			rabit_cull = 0;
+		}
+		sleep_util(start, 0.5);
 
 		// New bunnies
 		bunnies.reproduction();
 
-		dur = Time::now() - start;
-		remain = dsec(1) - dur;
-		sleep(std::max(std::chrono::duration_cast<Ms>(remain).count(), 0ll));
+		if (rabit_cull)
+		{
+			bunnies.kill_bunnies(bunnies.count() / 2);
+			rabit_cull = 0;
+		}
+		sleep_util(start, 1);
 
 		// infect non-rad into rad
 		bunnies.infection();
 
-		dur = Time::now() - start;
-		remain = dsec(1.5) - dur;
-		sleep(std::max(std::chrono::duration_cast<Ms>(remain).count(), 0ll));
+		if (rabit_cull)
+		{
+			bunnies.kill_bunnies(bunnies.count() / 2);
+			rabit_cull = 0;
+		}
+		sleep_util(start, 1.5);
 
 		// age plus 1 and print bunnies
 		bunnies.bunnies_info();
 		bunnies.grow();
 
-		dur = Time::now() - start;
-		remain = dsec(2) - dur;
-		sleep(std::max(std::chrono::duration_cast<Ms>(remain).count(), 0ll));
+		if (rabit_cull)
+		{
+			bunnies.kill_bunnies(bunnies.count() / 2);
+			rabit_cull = 0;
+		}
+		sleep_util(start, 2);
 
 		print_label('#', "This round takes " + std::to_string(dsec(Time::now() - start).count()));
 		file.flush();
@@ -90,6 +126,11 @@ int main()
 	auto global_end = Time::now();
 	print_label('#', "Total " + std::to_string(turn--) + " rounds, elapsed time: " + std::to_string((std::chrono::duration<double>(global_end - global_start)).count()));
 	bunnies.kill_all_bunnies();
+
+	// Quitting threads
+	quit = true;
+	t_keyboard.join();
+
 	// close file handle
 	file.close();
 	return 0;
